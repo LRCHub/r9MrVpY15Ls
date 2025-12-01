@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "guidance",
+  "base_artist": "BAD HOP",
+  "createdAt": "2025-12-01T10:02:26.760240Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Guidance",
+      "artist": "Guru",
+      "has_synced": true,
+      "path": "select/01_Guidance_Guru.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rush (Spiritual Guidance Mix)",
+      "artist": "Depeche Mode",
+      "has_synced": true,
+      "path": "select/02_Rush_(Spiritual_Guidance_Mix)_Depeche_Mode.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rush [Spiritual Guidance Mix]",
+      "artist": "Depeche Mode",
+      "has_synced": false,
+      "path": "select/03_Rush_[Spiritual_Guidance_Mix]_Depeche_Mode.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Survive It - Quest's Guidance Remix",
+      "artist": "Ghostpoet",
+      "has_synced": false,
+      "path": "select/04_Survive_It_-_Quest's_Guidance_Remix_Ghostpoet.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Parental Guidance",
+      "artist": "Judas Priest",
+      "has_synced": true,
+      "path": "select/05_Parental_Guidance_Judas_Priest.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "guidance",
+      "artist": "Travis Scott",
+      "has_synced": true,
+      "path": "select/06_guidance_Travis_Scott.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "guidance (feat. K. Forest)",
+      "artist": "Travis Scott",
+      "has_synced": true,
+      "path": "select/07_guidance_(feat._K._Forest)_Travis_Scott.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rush (Spiritual Guidance Mix)",
+      "artist": "Depeche Mode",
+      "has_synced": false,
+      "path": "select/08_Rush_(Spiritual_Guidance_Mix)_Depeche_Mode.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "No Guidance (feat. Drake)",
+      "artist": "Chris Brown feat. Drake",
+      "has_synced": true,
+      "path": "select/09_No_Guidance_(feat._Drake)_Chris_Brown_feat._Drake.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "No Guidance",
+      "artist": "Chris Brown",
+      "has_synced": true,
+      "path": "select/10_No_Guidance_Chris_Brown.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "No Guidance",
+      "artist": "Chris Brown, Drake",
+      "has_synced": true,
+      "path": "select/11_No_Guidance_Chris_Brown,_Drake.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "No Guidance",
+      "artist": "Chris Brown, Drake",
+      "has_synced": true,
+      "path": "select/12_No_Guidance_Chris_Brown,_Drake.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Parental Guidance (Remastered)",
+      "artist": "Judas Priest",
+      "has_synced": true,
+      "path": "select/13_Parental_Guidance_(Remastered)_Judas_Priest.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Guidance",
+      "artist": "RYO the SKYWALKER & THE FRIENDS",
+      "has_synced": false,
+      "path": "select/pl_01_Guidance_RYO_the_SKYWALKER_&_THE_FRIENDS.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "guidance",
+      "artist": "RYO the SKYWALKER & THE FRIENDS",
+      "has_synced": false,
+      "path": "select/pl_02_guidance_RYO_the_SKYWALKER_&_THE_FRIENDS.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "guidance",
+      "artist": "RYO the SKYWALKER & THE FRIENDS",
+      "has_synced": false,
+      "path": "select/pl_03_guidance_RYO_the_SKYWALKER_&_THE_FRIENDS.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Guidance",
+      "artist": "RYO the SKYWALKER & THE FRIENDS",
+      "has_synced": false,
+      "path": "select/pl_04_Guidance_RYO_the_SKYWALKER_&_THE_FRIENDS.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Guidance (2021 Ver.)",
+      "artist": "RYO the SKYWALKER & THE FRIENDS",
+      "has_synced": false,
+      "path": "select/pl_05_Guidance_(2021_Ver.)_RYO_the_SKYWALKER_&_THE_FRIENDS.txt"
+    }
+  ]
+}
